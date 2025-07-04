@@ -9,7 +9,7 @@ A well-known dataset with around 541,000 transactions, complete with invoices, p
   - CSVs
 
 
-<h2>👨‍💻 PostgreSQL Online retail project:</h2>
+<h2>👨‍💻 PostgreSQL Online Retail Project:</h2>
 
 - <b></b>
   - [Ingesting online retail dataset](https://github.com/DarrenDavy12/PostgresSQL_Retail_Sales_Data_Pipeline-Analytics/blob/78bb6d67ad08b861ad094cb4ab7f3b865326f6d4/1.Ingesting_online_retail_dataset.md)
