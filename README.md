@@ -1,5 +1,8 @@
 # PostgresSQL_Retail_Sales_Data_Pipeline-Analytics
 
+### UK Online Retail (from UCI via Kaggle) 
+A well-known dataset with around 541,000 transactions, complete with invoices, products, quantities, prices, countries, and more. Great for RFM analysis, churn, cancellations, and seasonality studies.
+
 #### Tech Stack:
   - PostgreSQL
   - pgAdmin
