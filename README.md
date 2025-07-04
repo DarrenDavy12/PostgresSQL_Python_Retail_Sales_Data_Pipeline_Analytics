@@ -102,7 +102,7 @@ Data cleaning, and preparation for analysis.
 <br> 
 
 
-There are no more null values and now they are under 'unknownID', I ran the previous select statement and the data output show zero nulls. 
+There are no more null values and now they are under 'unknownID', I ran the previous select statement and the data output shown zero nulls. 
 
 
 <br>
