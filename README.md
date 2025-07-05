@@ -20,3 +20,6 @@ A well-known dataset with around 541,000 transactions, complete with invoices, p
 
 
 
+
+- <b></b>
+  - [Analysing online retail dataset](https://github.com/DarrenDavy12/PostgresSQL_Retail_Sales_Data_Pipeline-Analytics/blob/763fbb04d8938144983bfef8b84300c74eac0e9c/3.%20Basic_visualization_Sales_Charts_with_pandas_matplotlib_seaborn_sqlalchemy.md)
